@@ -107,7 +107,6 @@ namespace AttendanceSystem
         }
 
         
-
         private void Form1_FormClosing_1(object sender, FormClosingEventArgs e)
         {
             //MessageBox.Show("Have a nice day","Automatic attendance system");
