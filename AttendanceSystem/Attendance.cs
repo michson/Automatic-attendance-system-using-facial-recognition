@@ -19,6 +19,7 @@ namespace AttendanceSystem
 
         int[] a = {0,0,0,0 };
 
+
         private void Button1_Click(object sender, EventArgs e)
         {
             List<string> PresentStudents = new List<string>();
