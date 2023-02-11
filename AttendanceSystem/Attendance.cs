@@ -8,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-
 namespace AttendanceSystem
 {
     public partial class Attendance : Form
